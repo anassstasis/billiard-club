@@ -1,0 +1,133 @@
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Authorization.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Menu.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Registration.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Table.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\billiard.exe.config
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\billiard.exe
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\billiard.pdb
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\EntityFramework.dll
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\EntityFramework.xml
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micro-3\source\repos\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.exe
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.pdb
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Visitor.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Payment.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.BarMenu.resources
+C:\Users\micro-3\source\repos\billiard\billiard\obj\Debug\billiard.Souvenir.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\billiard.exe.config
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\billiard.exe
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\billiard.pdb
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\EntityFramework.dll
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\EntityFramework.xml
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micro-3\Desktop\2\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Authorization.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.BarMenu.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Menu.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Payment.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Registration.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Souvenir.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Table.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.Visitor.resources
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.exe
+C:\Users\micro-3\Desktop\2\billiard\billiard\obj\Debug\billiard.pdb
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\billiard.exe.config
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\billiard.exe
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\billiard.pdb
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\EntityFramework.dll
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\EntityFramework.xml
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Authorization.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.BarMenu.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Menu.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Payment.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Registration.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Souvenir.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Table.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.Visitor.resources
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.exe
+E:\4 курс\трпо\КУРСОВАЯ\3\billiard\billiard\obj\Debug\billiard.pdb
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Authorization.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Menu.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Payment.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Registration.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Table.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.Visitor.resources
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.exe
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.pdb
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\billiard.exe.config
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\billiard.exe
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\billiard.pdb
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\EntityFramework.dll
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\EntityFramework.xml
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+E:\4 курс\трпо\КУРСОВАЯ\4\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\billiard.exe.config
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\billiard.exe
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\billiard.pdb
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\EntityFramework.dll
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\EntityFramework.xml
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micro-3\Desktop\5\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Authorization.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Menu.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Payment.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Registration.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Table.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Service.resources
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.exe
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.pdb
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\billiard.exe.config
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\billiard.exe
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\billiard.pdb
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\EntityFramework.dll
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\EntityFramework.SqlServer.dll
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\EntityFramework.xml
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\EntityFramework.SqlServer.xml
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\bin\Debug\ru\EntityFramework.resources.dll
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.csprojAssemblyReference.cache
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Authorization.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Menu.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Payment.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Properties.Resources.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Registration.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Table.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.Service.resources
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.csproj.GenerateResource.cache
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.csproj.CoreCompileInputs.cache
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.csproj.CopyComplete
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.exe
+F:\4 курс\трпо\КУРСОВАЯ\5\billiard\billiard\obj\Debug\billiard.pdb
+C:\Users\micro-3\Desktop\5\billiard\billiard\obj\Debug\billiard.Add.resources

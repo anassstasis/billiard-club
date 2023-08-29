@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище billiardModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="bar">
+    <Key>
+      <PropertyRef Name="id_bar" />
+    </Key>
+    <Property Name="id_bar" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="price" Type="int" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "billiard.dbo.menu" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="menu">
+          <Property Name="table_id" Type="int" />
+          <Property Name="visitor_id" Type="int" />
+          <Property Name="bar_id" Type="int" />
+          <Property Name="souvenir_id" Type="int" />
+        </EntityType>-->
+  <EntityType Name="pooltable">
+    <Key>
+      <PropertyRef Name="id_table" />
+    </Key>
+    <Property Name="id_table" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="num_table" Type="varchar" MaxLength="50" />
+    <Property Name="booking" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="souvenirs">
+    <Key>
+      <PropertyRef Name="id_souvenir" />
+    </Key>
+    <Property Name="id_souvenir" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+    <Property Name="price" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="users">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="varchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+    <Property Name="name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="visitors">
+    <Key>
+      <PropertyRef Name="id_visitor" />
+    </Key>
+    <Property Name="id_visitor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fio" Type="varchar" MaxLength="50" />
+    <Property Name="parties" Type="varchar" MaxLength="50" />
+    <Property Name="card_status" Type="varchar" MaxLength="50" />
+    <Property Name="visit_price" Type="int" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "billiard.dbo.menu", на которую ссылается связь.
+        <Association Name="FK_menu_bar" />-->
+  <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "billiard.dbo.menu", на которую ссылается связь.
+        <Association Name="FK_menu_pooltable" />-->
+  <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "billiard.dbo.menu", на которую ссылается связь.
+        <Association Name="FK_menu_souvenirs" />-->
+  <!--Ошибки, обнаруженные при создании:
+ошибка 6004: Невозможно найти таблицу "billiard.dbo.menu", на которую ссылается связь.
+        <Association Name="FK_menu_visitors" />-->
+  <EntityContainer Name="Хранилище billiardModelContainer">
+    <EntitySet Name="bar" EntityType="Self.bar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pooltable" EntityType="Self.pooltable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="souvenirs" EntityType="Self.souvenirs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="visitors" EntityType="Self.visitors" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
